@@ -1,0 +1,2 @@
+# pedia
+general info center
